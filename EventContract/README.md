@@ -48,9 +48,3 @@ The EventContract is a Solidity smart contract designed to manage and sell ticke
 - `events`: View event details.
 - `tickets`: View the number of tickets owned by an address for a specific event.
 - `nextId`: The ID to assign to the next created event.
-
-This contract simplifies the management of event tickets on the Ethereum blockchain, making it easier to create and sell tickets for various events.
-
----
-
-Feel free to expand upon this `readme.md` by providing more context, usage examples, or additional information specific to your use case. This document serves as an introductory guide to your EventContract.
