@@ -43,7 +43,3 @@ The contract emits events to provide transparency and tracking:
 - Ensure the contract is deployed on a secure and well-audited blockchain.
 - Review and test the contract thoroughly before using it with real funds.
 - Be cautious when specifying the list of owners and the confirmation requirement to avoid unintended transactions.
-
----
-
-Feel free to add more details, instructions, or additional information as needed for your specific use case. This `readme.md` provides a brief overview of the contract's functionality and usage.
